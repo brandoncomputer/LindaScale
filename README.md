@@ -20,10 +20,10 @@ This system removes reliance on historically arbitrary reference points (e.g., w
 #### Problems with Existing Temperature Scales  
 
 1. **Kelvin’s Dependence on Celsius**  
-   The Kelvin scale is widely used in scientific disciplines, but its origins are tied to the Celsius scale, which defines 0°C as the freezing point of water at one atmosphere. While Kelvin shifts this scale to absolute zero, it remains fundamentally linked to Celsius, which was determined based on Earth-bound conditions rather than fundamental thermodynamic principles.
+   The Kelvin scale is widely used in scientific disciplines, but its origins are tied to the Celsius scale, which defines 0°C as the freezing point of water at one atmosphere. While Kelvin shifts this scale to absolute zero, it remains fundamentally linked to Celsius, which was determined based on Earth-bound conditions rather than fundamental thermodynamic principles. Essentially, 0°C is it's secondary fundamental anchor point, invalidating the system from standing on its own.
 
 2. **Rankine’s Dependence on Fahrenheit**  
-   The Rankine scale, primarily used in engineering applications, is similarly problematic, as it is rooted in the Fahrenheit system—another arbitrary, historically derived scale. Fahrenheit was originally created using brine freezing points rather than a universal physical constant, making Rankine an impractical choice for a rigorous scientific foundation.
+   The Rankine scale, primarily used in engineering applications, is similarly problematic, as it is rooted in the Fahrenheit system—another arbitrary, historically derived scale. Fahrenheit was originally created using brine freezing points rather than a universal physical constant, making Rankine an impractical choice for a rigorous scientific foundation. Essentially, 32°F is it's secondary fundamental anchor point, invalidating the system from standing on its own.
 
 #### The Superiority of the Linda Scale  
 Unlike Kelvin or Rankine, the Linda scale provides a completely self-sufficient method for measuring temperature, free from any historical or Earth-bound dependencies. It centers purely on universal thermodynamic properties, making it a more rational and scientifically consistent system.  
