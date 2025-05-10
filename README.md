@@ -7,7 +7,7 @@ Temperature system based purely on logical scientific principles that reflect mo
 Temperature measurement is fundamental to scientific inquiry, engineering, and daily life. However, existing temperature scales, such as Kelvin and Rankine, are deeply rooted in legacy systems that introduce unnecessary dependencies on arbitrary reference points. This paper proposes a new unit of measurement—the **Linda Scale**—which establishes a temperature system based purely on logical scientific principles that reflect molecular action in objects.
 
 #### The Foundations of a Valid Temperature Scale  
-For a temperature scale to be scientifically valid, it must be anchored to two fundamental points:  
+For any given temperature scale to be scientifically valid, it must be anchored to two fundamental points. These fundametal points in the Linda Scale are as follows:  
 1. **The temperature at which all molecular motion ceases** – the absolute zero of thermodynamic energy.  
 2. **The temperature at which water freezes in a vacuum** – an essential reference point for phase transitions of matter under idealized conditions.  
 
