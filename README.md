@@ -115,5 +115,5 @@ Imagine **water in a vacuum chamber** (an Earth-based simulation of space). If y
 
 This happens because **phase changes depend on both temperature and pressure**, and in space, pressure is nearly **zero**, leading to weird behavior where water can **boil and freeze at the same time**!
 
-In basic, water will not freeze in space at temperatures above 100 degrees Linda, it will just boild and sumliminate, but at 100 degrees Linda and below water will simultaneously boil, subliminate and freeze.
+In basic, water will not freeze in space at temperatures above 100 degrees Linda, it will just boil and sumliminate, but at 100 degrees Linda and below water will simultaneously boil, subliminate and freeze.
 
